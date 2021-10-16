@@ -3,7 +3,22 @@ guid: 9dc434475eba3ca4198b0738fc00897a
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BarkodOkuyucu
+    second: {fileID: 2100000, guid: 53087d49e277b5e439ad9586bfa40708, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cam
+    second: {fileID: 2100000, guid: 99cc4e096d20cf34896675a8294837bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: b0c3fa510dfd5544c9213e1969e37ad3, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

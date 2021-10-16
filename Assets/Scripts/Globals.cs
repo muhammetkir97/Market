@@ -9,7 +9,7 @@ public class Globals : MonoBehaviour
     public Color[] OutlineColors;
 
     int CurrentLevel = 0;
-    float BaseSpawnSpeed = 3;
+    float BaseSpawnSpeed = 1.5f;
     float MultiplierSpawnSpeed = 1.02f;
 
     float BaseObjectSpeed = 1;
